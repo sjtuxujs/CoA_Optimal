@@ -22,9 +22,6 @@ filter_write <- function(df, file, base = 1){
 }
 
 
-
-
-
 #3.数据处理与绘图
 #reshape2包可以实现在宽格式（wide-format）和长格式（long-format）之间转换数据。
 library(reshape2)
